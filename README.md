@@ -1,2 +1,3 @@
 # hello-word
-this is test
+这是测试
+lolo
